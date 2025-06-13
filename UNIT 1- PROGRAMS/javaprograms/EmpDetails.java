@@ -1,15 +1,4 @@
 
-/**
-*Company : Smart Programming
-*Client : USA (John)
-*Version : JDK 8
-*Authors Name : Deepak Panwar
-*this class represents employee details
-*which have its phone no, name, emp id etc
-*and this class also contains many variables and methods
-*/
-
-
 public class EmpDetails 
 {
 	/**
