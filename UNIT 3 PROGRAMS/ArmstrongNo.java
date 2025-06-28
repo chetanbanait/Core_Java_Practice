@@ -12,6 +12,7 @@ class ArmstrongNo
 			temp1=temp1/10;
 		}
 		
+		
 		int temp2=no;
 		int rem;
 		int sum=0;
