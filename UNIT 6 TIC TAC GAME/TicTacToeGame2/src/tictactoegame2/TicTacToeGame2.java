@@ -5,7 +5,6 @@
  */
 package tictactoegame2;
 
-
 /**
  *
  * @author Deepak
