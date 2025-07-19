@@ -14,7 +14,6 @@ class AlphabetPattern1
 	}
 }
 
-
 /*
 A
 A B
