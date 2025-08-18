@@ -1,7 +1,5 @@
 abstract class AbstractClassDemooo
 {
-	int a;
-
-	
+	int a;	
 	abstract void show();
 }
