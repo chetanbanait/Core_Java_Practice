@@ -9,7 +9,6 @@ class AlphabetPattern2
 			{
 				System.out.print((char)(count+i)+" ");
 			}
-			
 			System.out.println();
 		}
 	}
