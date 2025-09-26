@@ -8,4 +8,3 @@ class Test
 		System.out.println(c);
 	}
 }
-
