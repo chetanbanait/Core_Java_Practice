@@ -7,7 +7,7 @@ package tictactoegame2;
 
 /**
  *
- * @author Deepak
+ * @author Chetan
  */
 public class TicTacToeGame2
 {
