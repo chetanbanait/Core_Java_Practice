@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Deepak
+ * @author chetan
  */
 public class GamePanel implements ActionListener
 {
