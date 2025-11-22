@@ -14,7 +14,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Deepak
+ * @author Chetan
  */
 public class UserPanel implements ActionListener
 {
