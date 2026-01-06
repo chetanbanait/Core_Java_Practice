@@ -1,4 +1,3 @@
-
 package tictactoegame2;
 
 import java.awt.Color;
